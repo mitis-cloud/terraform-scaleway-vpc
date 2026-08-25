@@ -92,7 +92,7 @@ rename or re-CIDR a key that a cluster uses.
 
 | Name | Version |
 |------|---------|
-| scaleway | 2.81.0 |
+| scaleway | >= 2.81, < 3.0 |
 
 ## Resources
 

@@ -6,5 +6,6 @@ sort:
   enabled: true
   by: required
 settings:
+  lockfile: false
   anchor: false
   hide-empty: true
